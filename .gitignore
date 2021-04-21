@@ -1,0 +1,10 @@
+node_modules
+coverage
+
+database.sqlite
+**/**.sqlite
+
+
+.env
+
+zz
